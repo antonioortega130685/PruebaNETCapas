@@ -1,0 +1,10 @@
+C:\Users\tony\source\repos\PruebaNET\Entidad\bin\Debug\Entidad.dll
+C:\Users\tony\source\repos\PruebaNET\Entidad\bin\Debug\Entidad.pdb
+C:\Users\tony\source\repos\PruebaNET\Entidad\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\tony\source\repos\PruebaNET\Entidad\obj\Debug\Entidad.dll
+C:\Users\tony\source\repos\PruebaNET\Entidad\obj\Debug\Entidad.pdb
+C:\Users\tony\source\repos\PruebaNET\Entidad\bin\Debug\Entidad.dll.config
+C:\Users\tony\source\repos\PruebaNET\Entidad\bin\Debug\EntityFramework.dll
+C:\Users\tony\source\repos\PruebaNET\Entidad\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tony\source\repos\PruebaNET\Entidad\bin\Debug\EntityFramework.xml
+C:\Users\tony\source\repos\PruebaNET\Entidad\bin\Debug\EntityFramework.SqlServer.xml

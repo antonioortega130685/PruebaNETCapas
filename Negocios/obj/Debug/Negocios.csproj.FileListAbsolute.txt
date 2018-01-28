@@ -1,0 +1,17 @@
+C:\Users\tony\source\repos\PruebaNET\Negocios\bin\Debug\Negocios.dll
+C:\Users\tony\source\repos\PruebaNET\Negocios\bin\Debug\Negocios.pdb
+C:\Users\tony\source\repos\PruebaNET\Negocios\bin\Debug\Datos.dll
+C:\Users\tony\source\repos\PruebaNET\Negocios\bin\Debug\Entidad.dll
+C:\Users\tony\source\repos\PruebaNET\Negocios\bin\Debug\EntityFramework.dll
+C:\Users\tony\source\repos\PruebaNET\Negocios\bin\Debug\Datos.pdb
+C:\Users\tony\source\repos\PruebaNET\Negocios\bin\Debug\Datos.dll.config
+C:\Users\tony\source\repos\PruebaNET\Negocios\bin\Debug\Entidad.pdb
+C:\Users\tony\source\repos\PruebaNET\Negocios\bin\Debug\EntityFramework.xml
+C:\Users\tony\source\repos\PruebaNET\Negocios\obj\Debug\Negocios.csprojResolveAssemblyReference.cache
+C:\Users\tony\source\repos\PruebaNET\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+C:\Users\tony\source\repos\PruebaNET\Negocios\obj\Debug\Negocios.dll
+C:\Users\tony\source\repos\PruebaNET\Negocios\obj\Debug\Negocios.pdb
+C:\Users\tony\source\repos\PruebaNET\Negocios\bin\Debug\Negocios.dll.config
+C:\Users\tony\source\repos\PruebaNET\Negocios\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tony\source\repos\PruebaNET\Negocios\bin\Debug\Entidad.dll.config
+C:\Users\tony\source\repos\PruebaNET\Negocios\bin\Debug\EntityFramework.SqlServer.xml
